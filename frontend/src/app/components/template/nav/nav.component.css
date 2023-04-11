@@ -1,0 +1,26 @@
+.sidenav{
+    background-color: #1c2025;
+    width: 70px;
+
+}
+.sidenav i {
+    padding-right: 2px;
+    color: gray;
+    font-size: 40px;
+}
+.navlist .logo{
+    align-items: center;
+    padding-left: 7px;
+    padding-top: 10px;
+}
+.inicio{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.produtos{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.content {
+    padding: 16px;
+}
